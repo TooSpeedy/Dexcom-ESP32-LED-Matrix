@@ -55,6 +55,12 @@ This is configured to use a board size of 8x32. Currently this hasnt been tested
 ```
 
 
+## Parts Used
+
+[ESP32 Board](https://www.aliexpress.com/item/32959541446.html)
+
+[8x32 Matrix](https://www.aliexpress.com/item/4001296811800.html)
+
 
 ## Acknowledgements
 
