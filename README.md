@@ -1,9 +1,9 @@
 
 # Dexcom ESP
 
-The object of this project is to display Dexcom readings on an LED matrix. It uses an £SP32 and checks the Dexcom share enpoint for readings. It will auto update every "x" mins and display it on an always on LED matrix display.
+The object of this project is to display Dexcom readings on an LED matrix. It uses an £SP32 and checks the Dexcom share endpoint for readings. It will auto update every "x" mins and display it on an always on LED matrix display.
 
-I've only started workingo n this project so there is lots more to do.
+I've only started workingo on this project so there is lots more to do.
 
 
 ## Bits to Change
@@ -48,7 +48,7 @@ This is coded to use `PIN 5` however if you would like to use another pin change
 
 ### Matrix Size
 
-This is configured to use a board size of 8x32. Currently this hasnt been tested on anything else, however this can be changed on **Line 13**.
+This is configured to use a board size of 8x32. Currently this hasn't been tested on anything else, however this can be changed on **Line 13**.
 
 ```C+
   Adafruit_NeoMatrix matrix = Adafruit_NeoMatrix(32, 8, PIN,
