@@ -1,7 +1,9 @@
 
 # Dexcom ESP
 
-A brief description of what this project does and who it's for
+The object of this project is to display Dexcom readings on an LED matrix. It uses an £SP32 and checks the Dexcom share enpoint for readings. It will auto update every "x" mins and display it on an always on LED matrix display.
+
+I've only started workingo n this project so there is lots more to do.
 
 
 ## Bits to Change
