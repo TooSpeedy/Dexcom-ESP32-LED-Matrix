@@ -62,6 +62,19 @@ This is configured to use a board size of 8x32. Currently this hasn't been teste
 
 [8x32 Matrix](https://www.aliexpress.com/item/4001296811800.html)
 
+1mm Clear PETG (Used for the screen)
+
+Matte Black Smoke Tint Vinyl
+
+A3 Paper
+
+## Housing
+
+To house the components I used the following STL:
+
+[Awtrix Case](https://www.thingiverse.com/thing:2791276)
+
+Due to not needing some of the holes etc... I modded the files to fit my needs.
 
 ## Acknowledgements
 
