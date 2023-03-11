@@ -5,6 +5,7 @@ The objective of this project is to display Dexcom readings on an LED matrix. It
 
 I've only started workingo on this project so there is lots more to do.
 
+![Alt text](assets/ESP32-Dexcom.jpg?raw=true "Title")
 
 ## Bits to Change
 
